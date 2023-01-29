@@ -1,2 +1,2 @@
 # DSA
- I will share DSA notes and code here
+ I will share DSA notes and codes here
